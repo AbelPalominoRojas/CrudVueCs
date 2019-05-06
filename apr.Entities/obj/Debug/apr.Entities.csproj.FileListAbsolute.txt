@@ -1,0 +1,9 @@
+D:\Desarrollo\Net\WebPedidos\apr.Entities\bin\Debug\apr.Entities.dll
+D:\Desarrollo\Net\WebPedidos\apr.Entities\bin\Debug\apr.Entities.pdb
+D:\Desarrollo\Net\WebPedidos\apr.Entities\obj\Debug\apr.Entities.dll
+D:\Desarrollo\Net\WebPedidos\apr.Entities\obj\Debug\apr.Entities.pdb
+D:\Desarrollo\Net\WebPedidos\apr.Entities\obj\Debug\apr.Entities.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Net\test\CrudVueCs\apr.Entities\bin\Debug\apr.Entities.dll
+D:\Desarrollo\Net\test\CrudVueCs\apr.Entities\bin\Debug\apr.Entities.pdb
+D:\Desarrollo\Net\test\CrudVueCs\apr.Entities\obj\Debug\apr.Entities.dll
+D:\Desarrollo\Net\test\CrudVueCs\apr.Entities\obj\Debug\apr.Entities.pdb
