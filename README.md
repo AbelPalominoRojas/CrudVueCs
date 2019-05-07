@@ -1,8 +1,8 @@
-# ErpSisvci
-Crud con C# y Vue.js 2
+# Crud con C# y Vue.js 2
+
 
 ### Pre-requisitos
-[Node.js](https://nodejs.org/es/)
+[Node.js](https://nodejs.org/es/) minimo v6
 
 ### Crear el archivo manifiesto (package.json)
 _crear el archivo en la raiz de la capa web_
